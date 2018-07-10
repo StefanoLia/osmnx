@@ -181,3 +181,7 @@ For a more complete overview of [OSMnx, read this](http://geoffboeing.com/2016/1
 Download/cite the [journal article here](http://geoffboeing.com/publications/osmnx-complex-street-networks/).
 
 For more examples, see the [examples repo](https://github.com/gboeing/osmnx-examples).
+
+## Modifications
+
+Now it's possible to plot more than one path in the map and each target (arrival points) can be drawn with different sizes.
